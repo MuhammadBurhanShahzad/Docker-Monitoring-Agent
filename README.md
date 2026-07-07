@@ -34,7 +34,7 @@ A real-world DevOps application that monitors and repairs Docker containers usin
 ## 🏗️ How AegisFlow Works Under the Hood
 
 ### 📐 System Architecture
-![AegisFlow System Architecture](images/aegisflow_architecture.jpg)
+![AegisFlow System Architecture](images/Diagram.png)
 
 ### The Execution Models
 
